@@ -1,6 +1,6 @@
 # Credit-card-fraud-detection-Model
+![image](https://github.com/GeetGhai/Credit-card-fraud-detection-Model/assets/154088899/3bf04034-5dbf-4e23-b2d1-79aa4db3ca6e)
 
-https://cdn3.slideserve.com/6401102/credit-card-fraud-detection-n.jpg
 
 # Project Report:
 Introduction
